@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zeta.configuration.SharedDataInterceptorConfig ,\
+com.zeta.configuration.SharedDataConfig
